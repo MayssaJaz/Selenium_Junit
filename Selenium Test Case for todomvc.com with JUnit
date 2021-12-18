@@ -1,0 +1,7 @@
+# Selenium_Junit
+1-Visit the TodoMVC website: Connect to the url https://todomvc.com
+2-Choose one of the technologies: Click on a technology link (Backbone.js ...)
+3-Add actions (todos): Add several examples of actions (Read a book, Call the client, Meditation...).
+4-Check an action: Check one of the three todos.
+5-test: Compare the number of items left expected and the real result.
+6-test: Take a screenshot.
